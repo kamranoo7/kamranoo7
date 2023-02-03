@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS,REACT,JAVASCRIPT**
 
-- 📫 How to reach me **<a href="mailto: iamkamrankhan00@gmail.com" target="_blank"/>**
+- 📫 How to reach me <a href="mailto: iamkamrankhan00@gmail.com" target="_blank"/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ORoMi2XLuK3Rv7jmcC13EUouSY_ANDU6/view?usp=sharing](https://drive.google.com/file/d/1ORoMi2XLuK3Rv7jmcC13EUouSY_ANDU6/view?usp=sharing)
 
