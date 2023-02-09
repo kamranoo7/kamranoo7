@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS,REACT,JAVASCRIPT**
 
-- 📫 How to reach me **iamkamrankhan00@gmail.com**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ORoMi2XLuK3Rv7jmcC13EUouSY_ANDU6/view?usp=sharing](https://drive.google.com/file/d/1ORoMi2XLuK3Rv7jmcC13EUouSY_ANDU6/view?usp=sharing)
 
