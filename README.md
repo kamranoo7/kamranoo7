@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/md-kamran-khan-2b27871a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md kamran khan" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/iamkamrankhan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamkamrankhan00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iamkamrankhan00?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamkamrankhan00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
