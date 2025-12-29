@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **REACT ADVANCED**
+- 🌱 I’m currently learning **Langchain, Generative AI , Angular**
 
 - 👨‍💻 All of my projects are available at [https://kamranoo7.github.io/](https://kamranoo7.github.io/)
 
-- 💬 Ask me about **HTML,CSS,REACT,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,REACT,JAVASCRIPT,GenAI, LLLM**
 
 - 📫 How to reach me **iamkamrankhan00@gmail.com**
 
