@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kamranoo7&theme=onedark" alt="kamranoo7 trophies" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranoo7&theme=radical" alt="kamranoo7 trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamranoo7&show_icons=true&theme=tokyonight&count_private=true" alt="kamranoo7 github stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranoo7&theme=tokyonight" alt="kamranoo7 streak stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamranoo7&layout=compact&theme=radical" alt="kamranoo7 github stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamranoo7&show_icons=true&theme=radical" alt="kamranoo7 streak stats" />
 </p>
 
 ---
