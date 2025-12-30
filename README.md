@@ -3,7 +3,7 @@
   <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" alt="Coding Animation" width="400"/>
 </p>
 
-<h3 align="center">A Passionate Full Stack Web Developer from Lucknow, Uttar Pradesh</h3>
+<h3 align="center">A Passionate Genai and Full Stack Web Developer from Lucknow, Uttar Pradesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamranoo7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
