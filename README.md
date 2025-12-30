@@ -1,40 +1,67 @@
 <h1 align="center">Hi 👋, I'm MD Kamran Khan</h1>
-<h3 align="center">A Passionate Full Stack Web developer from ,Lucknow UttarPradesh</h3>
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="xx"  height="300" width="800"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranoo7&label=Profile%20views&color=0e75b6&style=flat" alt="kamranoo7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamranoo7" alt="kamranoo7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Langchain, Generative AI , Angular**
-
-- 👨‍💻 All of my projects are available at [https://kamranoo7.github.io/](https://kamranoo7.github.io/)
-
-- 💬 Ask me about **HTML,CSS,REACT,JAVASCRIPT,GenAI, LLLM**
-
-- 📫 How to reach me **iamkamrankhan00@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z1Qa34QgEmjhV882wk4Bce0yW9cD8r7Y/view?usp=sharing](https://drive.google.com/file/d/1Z1Qa34QgEmjhV882wk4Bce0yW9cD8r7Y/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-kamran-khan-2b27871a4/" target="blank"><img align="center" src="data:image/png;base64,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" alt="md kamran khan" height="30" width="40" /></a>
-
-  <a href="https://www.instagram.com/kamranoo7/" target="blank"><img align="center" src="data:image/jpeg;base64,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" alt="md kamran khan" height="30" width="40" /></a>
- 
-
+<p align="center">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" alt="Coding Animation" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-![AWS](<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>)
-![DynamoDB](<img src="ttps://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>)
-![GenAI](<img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>)
-![Python](<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>)
-![LLM](<img src="https://img.shields.io/badge/LLM-AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>)
-" alt="kamranoo7" /></p>
+<h3 align="center">A Passionate Full Stack Web Developer from Lucknow, Uttar Pradesh</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamranoo7&show_icons=true&locale=en" alt="kamranoo7" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamranoo7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kamranoo7?label=Follow&style=social" alt="GitHub Followers" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranoo7&" alt="kamranoo7" /></p>
+---
 
+### 🧑‍💻 About Me
+
+- 🚀 Currently deep-diving into **Langchain, Generative AI, and Angular**.
+- 👨‍💻 See my live portfolio here: [kamranoo7.github.io](https://kamranoo7.github.io/)
+- 💬 Ask me about **React, JavaScript, GenAI, and LLMs**.
+- 📄 Check out my [Professional Resume](https://drive.google.com/file/d/1Z1Qa34QgEmjhV882wk4Bce0yW9cD8r7Y/view?usp=sharing).
+- 📫 Reach me at: **iamkamrankhan00@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kamranoo7&theme=radical" alt="Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamranoo7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranoo7&theme=radical" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-kamran-khan-2b27871a4/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/kamranoo7/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
